@@ -1,6 +1,6 @@
 # magnetic-math
 
-![overview of a 3d printed overlay on a dry erase magnetic pad showing number tiles with numbers 2 plus 4 equals six. Above the tiles are small chip counters that correspond with the numbers and below the tiles are handwritten numbers corresponding with the equation](img/magnetic_math.jpg)
+![overview of a 3d printed overlay on a dry erase magnetic pad showing number tiles with numbers 2 plus 4 equals six. Above the tiles are small chip counters that correspond with the numbers and below the tiles are handwritten numbers corresponding with the equation](img/Magnetic math.gif)
 
 A low tech assistive technology system to support students with single or double digit addition. [A walkthrough explainer video](https://youtu.be/K0u4jIBSiNw) is available.
 
